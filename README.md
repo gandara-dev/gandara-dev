@@ -37,7 +37,7 @@ Systems administrator and infrastructure automation engineer with **4+ years** d
 | **Windows & Identity** | Windows Server 2012–2022, Windows 10/11, Active Directory, GPO, Microsoft 365 |
 | **Automation & IaC** | PowerShell, Ansible Tower, Terraform *(learning)*, Kubernetes *(learning)* |
 | **Cloud** | AWS, Azure |
-| **Operations** | Disaster Recovery, Capacity Planning, Security Patching & Compliance, Change Management (CAB), GLPI, VoIP Telephony |
+| **Operations** | Disaster Recovery, Capacity Planning, Security Patching & Compliance, Change Management (CAB) |
 
 ---
 
