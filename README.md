@@ -1,49 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=250&section=header&text=Hi%20there%2C%20I'm%20Mateus%20Gandara!&fontSize=50&fontColor=FFFFFF&animation=fadeIn" alt="Header" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=220&section=header&text=Mateus%20Gandara&fontSize=55&fontColor=FFFFFF&animation=fadeIn&desc=Infrastructure%20Automation%20%7C%20Citrix%20%26%20VMware&descAlignY=65&descSize=20" alt="Header" />
 
-<h3 align="center">Senior Infrastructure Automation Engineer | Citrix & Virtualization Specialist</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Senior+Infrastructure+Automation+Engineer;Citrix+%26+VMware+Virtualization+Specialist;PowerShell+%7C+Ansible+%7C+Terraform;Keeping+VDI+fast%2C+secure+and+available" alt="Typing SVG" />
 
-<div align="center">
-  <a href="mailto:mateus.gandara@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/mateusgandara">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+  <br/>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&System=true&width=550&lines=Administrator;Infrastructure;Automation;Engineer;%7C;Citrix;Platform;Specialist" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/mateusgandara"><img src="https://img.shields.io/badge/LinkedIn-mateusgandara-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:mateus.gandara@outlook.com"><img src="https://img.shields.io/badge/Email-mateus.gandara%40outlook.com-3B82F6?style=for-the-badge" alt="Email" /></a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Highly accomplished VMware and Citrix Specialist with over 4 years of hands-on experience in designing, deploying, and administering enterprise virtualization and VDI solutions. Certified with a strong track record in hybrid infrastructure management, including Citrix Virtual Apps & Desktops, VMware vSphere/ESXi/vCenter, and Windows Server environments. Adept at ensuring high availability, performance, and robust security within complex corporate landscapes.A proven leader in automating administrative tasks, streamlining operations with PowerShell scripting, and orchestrating patch deployments using Ansible Tower. Mateus actively contributes to disaster recovery exercises and implements proactive security patching and compliance measures, driving operational efficiency and resilience across critical virtualized services.
+Systems administrator and infrastructure automation engineer with **4+ years** designing, deploying and running enterprise **virtualization and VDI** platforms. I keep Citrix and VMware environments highly available, secure and patched — and I automate everything I can along the way.
 
-- 🔭 **I’m currently focusing on:** scalable and automated solutions.
-- 🌱 **I’m currently learning:** Kubernetes, Terraform, DevOps.
-- 💬 **Ask me about:** Citrix Virtual Apps & Desktops (CVAD), Citrix Workspace, XenDesktop.
-- 📫 **How to reach me:** [mateus.gandara@outlook.com](mailto:mateus.gandara@outlook.com)
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Citrix%20Virtual%20Apps%20%26%20Desktops%20(CVAD)-333333?style=for-the-badge&logo=citrix%20virtual%20apps%20%26%20desktops%20(cvad)&logoColor=white" alt="Citrix Virtual Apps & Desktops (CVAD)" /> <img src="https://img.shields.io/badge/Citrix%20Workspace-333333?style=for-the-badge&logo=citrix%20workspace&logoColor=white" alt="Citrix Workspace" /> <img src="https://img.shields.io/badge/XenDesktop-333333?style=for-the-badge&logo=xendesktop&logoColor=white" alt="XenDesktop" /> <img src="https://img.shields.io/badge/XenApp-333333?style=for-the-badge&logo=xenapp&logoColor=white" alt="XenApp" /> <img src="https://img.shields.io/badge/VMware%20vSphere-333333?style=for-the-badge&logo=vmware%20vsphere&logoColor=white" alt="VMware vSphere" /> <img src="https://img.shields.io/badge/ESXi-333333?style=for-the-badge&logo=esxi&logoColor=white" alt="ESXi" /> <img src="https://img.shields.io/badge/vCenter-333333?style=for-the-badge&logo=vcenter&logoColor=white" alt="vCenter" /> <img src="https://img.shields.io/badge/Citrix%20WEM-333333?style=for-the-badge&logo=citrix%20wem&logoColor=white" alt="Citrix WEM" /> <img src="https://img.shields.io/badge/Machine%20Creation%20Services%20(MCS)-333333?style=for-the-badge&logo=machine%20creation%20services%20(mcs)&logoColor=white" alt="Machine Creation Services (MCS)" /> <img src="https://img.shields.io/badge/App%20Layering-333333?style=for-the-badge&logo=app%20layering&logoColor=white" alt="App Layering" /> <img src="https://img.shields.io/badge/User%20Profile%20Management%20(UPM%2FUPL)-333333?style=for-the-badge&logo=user%20profile%20management%20(upm%2Fupl)&logoColor=white" alt="User Profile Management (UPM/UPL)" /> <img src="https://img.shields.io/badge/Golden%20Image%20Creation%20%26%20Maintenance-333333?style=for-the-badge&logo=golden%20image%20creation%20%26%20maintenance&logoColor=white" alt="Golden Image Creation & Maintenance" /> <img src="https://img.shields.io/badge/Windows%20Server%202012%2F2016%2F2019%2F2022-333333?style=for-the-badge&logo=windows%20server%202012%2F2016%2F2019%2F2022&logoColor=white" alt="Windows Server 2012/2016/2019/2022" /> <img src="https://img.shields.io/badge/Windows%2010%2F11-333333?style=for-the-badge&logo=windows%2010%2F11&logoColor=white" alt="Windows 10/11" /> <img src="https://img.shields.io/badge/Active%20Directory-333333?style=for-the-badge&logo=active%20directory&logoColor=white" alt="Active Directory" /> <img src="https://img.shields.io/badge/GPO-333333?style=for-the-badge&logo=gpo&logoColor=white" alt="GPO" /> <img src="https://img.shields.io/badge/Nutanix-333333?style=for-the-badge&logo=nutanix&logoColor=white" alt="Nutanix" /> <img src="https://img.shields.io/badge/PowerShell%20Scripting-333333?style=for-the-badge&logo=powershell%20scripting&logoColor=white" alt="PowerShell Scripting" /> <img src="https://img.shields.io/badge/Ansible%20Tower-333333?style=for-the-badge&logo=ansible%20tower&logoColor=white" alt="Ansible Tower" /> <img src="https://img.shields.io/badge/Disaster%20Recovery-333333?style=for-the-badge&logo=disaster%20recovery&logoColor=white" alt="Disaster Recovery" /> <img src="https://img.shields.io/badge/Capacity%20Planning-333333?style=for-the-badge&logo=capacity%20planning&logoColor=white" alt="Capacity Planning" /> <img src="https://img.shields.io/badge/Security%20Patching%20%26%20Compliance%20(HIPAA)-333333?style=for-the-badge&logo=security%20patching%20%26%20compliance%20(hipaa)&logoColor=white" alt="Security Patching & Compliance (HIPAA)" /> <img src="https://img.shields.io/badge/Change%20Management%20(CAB)-333333?style=for-the-badge&logo=change%20management%20(cab)&logoColor=white" alt="Change Management (CAB)" /> <img src="https://img.shields.io/badge/vRealize%20Operations-333333?style=for-the-badge&logo=vrealize%20operations&logoColor=white" alt="vRealize Operations" /> <img src="https://img.shields.io/badge/Microsoft%20365-333333?style=for-the-badge&logo=microsoft%20365&logoColor=white" alt="Microsoft 365" /> <img src="https://img.shields.io/badge/VoIP%20Telephony-333333?style=for-the-badge&logo=voip%20telephony&logoColor=white" alt="VoIP Telephony" /> <img src="https://img.shields.io/badge/GLPI-333333?style=for-the-badge&logo=glpi&logoColor=white" alt="GLPI" />
-</p>
+- 🖥️ **Day to day:** Citrix Virtual Apps & Desktops, VMware vSphere/ESXi/vCenter, Nutanix, Windows Server & Active Directory
+- ⚙️ **Automation:** PowerShell scripting and patch orchestration with Ansible Tower
+- 🛡️ **Operations:** disaster recovery exercises, capacity planning, security patching & compliance (HIPAA), change management (CAB)
+- 🌱 **Currently learning:** Kubernetes, Terraform and DevOps practices
+- 💬 **Ask me about:** CVAD, Citrix Workspace, MCS, App Layering, golden images, UPM/WEM
 
 ---
 
-### 🏆 Certifications & Badges
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vmware,windows,powershell,ansible,terraform,kubernetes,docker,linux,bash,azure,aws,git,github&perline=13" alt="Tech icons" />
+</div>
+
+<br/>
+
+| Area | Tools & Technologies |
+|---|---|
+| **VDI & Virtualization** | Citrix Virtual Apps & Desktops (XenApp/XenDesktop), Citrix Workspace, Citrix WEM, MCS, App Layering, UPM/UPL, Golden Images, VMware vSphere / ESXi / vCenter, vRealize Operations, Nutanix |
+| **Windows & Identity** | Windows Server 2012–2022, Windows 10/11, Active Directory, GPO, Microsoft 365 |
+| **Automation & IaC** | PowerShell, Ansible Tower, Terraform *(learning)*, Kubernetes *(learning)* |
+| **Cloud** | AWS, Azure |
+| **Operations** | Disaster Recovery, Capacity Planning, Security Patching & Compliance, Change Management (CAB), GLPI, VoIP Telephony |
+
+---
+
+### 🏅 Key Certifications
+
+<div align="center">
+    <a href="https://www.credly.com/badges/f22d3656-7dbb-4273-9d90-661ff737cd65"><img src="https://images.credly.com/images/a18457b1-3537-46e0-8c9b-da125c921926/CCP-V.png" alt="Citrix Certified Professional - Virtualization (CCP - V)" width="90" /></a>
+    <a href="https://www.credly.com/badges/9351b9b2-4cfd-477c-812a-fe8ac11b1e2c"><img src="https://images.credly.com/images/e8af4bc2-78e8-4d63-b4b6-22eb524ae616/CCA-V.png" alt="Citrix Certified Associate - Virtualization (CCA - V)" width="90" /></a>
+    <a href="https://www.credly.com/badges/95469cd3-185f-4ee9-a39b-e5a73e175329"><img src="https://images.credly.com/images/efcba1b5-f1e7-4a28-9bf2-a303d624d653/image.png" alt="VMware Certified Technical Associate - Data Center Virtualization 2023" width="90" /></a>
+    <a href="https://www.credly.com/badges/2a40a982-291f-4906-97b9-3413801cbcbf"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="90" /></a>
+    <a href="https://www.credly.com/badges/c713fe8a-84f0-44c0-9437-cc114506d28b"><img src="https://images.credly.com/images/3e8e0bc9-d675-4c4c-9e92-69da4a0f6728/image.png" alt="Site Reliability Engineer Practitioner" width="90" /></a>
+    <a href="https://www.credly.com/badges/4f67d8b6-5c49-4df8-8f07-4dd9f08e0942"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="90" /></a>
+    <a href="https://www.credly.com/badges/a6660397-f659-4d76-8702-e9ebe9426c2a"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="90" /></a>
+    <a href="https://www.credly.com/badges/e3e4f4ba-17d0-4b66-98b0-f89b1476047f"><img src="https://images.credly.com/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" width="90" /></a>
+</div>
 
 <details>
-  <summary><b>✨ Click to reveal 34 Certifications</b></summary>
+  <summary><b>✨ All 34 certifications &amp; badges</b></summary>
   <br />
   <div align="center">
     <a href="https://www.credly.com/badges/44dd66e4-c5a4-45ad-b50d-07f31805d2d4"><img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="Generative AI Leader Certification" width="100" style="margin: 5px;" /></a>
@@ -82,31 +94,6 @@ Highly accomplished VMware and Citrix Specialist with over 4 years of hands-on e
     <a href="https://www.credly.com/badges/73df1837-c434-4101-9d97-8f3b2c051c77"><img src="https://images.credly.com/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="Cyber Security Foundation Professional Certificate - CSFPC™ !" width="100" style="margin: 5px;" /></a>
   </div>
 </details>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gandara-dev&no-bg=true&no-frame=true&theme=radical&row=1&column=7" alt="Trophies" />
-  </a>
-</div>
-
----
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gandara-dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gandara-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gandara-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" alt="Footer" />
