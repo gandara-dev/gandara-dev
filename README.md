@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=220&section=header&text=Mateus%20Gandara&fontSize=55&fontColor=FFFFFF&animation=fadeIn&desc=Infrastructure%20Automation%20%7C%20Citrix%20and%20VMware&descAlignY=65&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=220&section=header&text=Mateus%20Gandara&fontSize=55&fontColor=FFFFFF&animation=fadeIn&desc=Systems%20Administrator%20%7C%20Citrix%20%7C%20VMware%20%7C%20Windows&descAlignY=65&descSize=20" alt="Header" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Senior+Infrastructure+Automation+Engineer;Citrix+and+VMware+Virtualization+Specialist;PowerShell+%7C+Ansible+%7C+Terraform;Keeping+VDI+fast%2C+secure+and+available" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Systems+Administrator+%40+Kyndryl;Citrix+and+VMware+Virtualization+Specialist;5%2B+years+in+enterprise+IT+infrastructure;PowerShell+%7C+Ansible+%7C+Disaster+Recovery" alt="Typing SVG" />
 
   <br/>
 
@@ -13,13 +13,32 @@
 
 ### 👨‍💻 About Me
 
-Systems administrator and infrastructure automation engineer with **4+ years** designing, deploying and running enterprise **virtualization and VDI** platforms. I keep Citrix and VMware environments highly available, secure and patched — and I automate everything I can along the way.
+Systems Administrator at **Kyndryl** with **5+ years** in enterprise IT infrastructure, supporting global enterprise clients. I specialize in **Citrix Virtual Apps and Desktops**, **VMware vSphere** and **Windows Server**, keeping virtualization and VDI platforms highly available, secure and patched, and automating whatever I can along the way.
 
-- 🖥️ **Day to day:** Citrix Virtual Apps & Desktops, VMware vSphere/ESXi/vCenter, Nutanix, Windows Server & Active Directory
+- 🖥️ **Day to day:** the full Citrix stack (Delivery Controllers, Machine Catalogs, MCS, App Layering, WEM, NetScaler ADC, UPM), VMware vCenter/ESXi, Windows Server & Active Directory
 - ⚙️ **Automation:** PowerShell scripting and patch orchestration with Ansible Tower
-- 🛡️ **Operations:** disaster recovery exercises, capacity planning, security patching & compliance (HIPAA), change management (CAB)
+- 🛡️ **Operations:** HIPAA-compliant regulated environments, disaster recovery exercises, Change Advisory Board (CAB), close work with IAM, security and audit teams
 - 🌱 **Currently learning:** Kubernetes, Terraform and DevOps practices
-- 💬 **Ask me about:** CVAD, Citrix Workspace, MCS, App Layering, golden images, UPM/WEM
+- 🌎 **Languages:** English and Portuguese (bilingual)
+- 📍 **Based in:** Campinas, São Paulo, Brazil
+
+---
+
+### 🚀 Highlights
+
+- 🔥 **Record-time disaster recovery:** took part in a DR exercise at Kyndryl's Resiliency Services site in Boulder, Colorado, supporting the Intel and Citrix environment. The team recovered the client's entire environment in a record **7 hours and 50 minutes**.
+- 🎓 **Postgraduate specialization in Cloud Computing** (PUC Minas): cloud architecture, DevOps, infrastructure as code and CI/CD.
+- 🏅 **Citrix CCP-V and CCA-V**, **VMware VCTA-DCV** and **AWS Solutions Architect – Associate** certified.
+
+---
+
+### 🎓 Education
+
+| Program | Institution | Status |
+|---|---|---|
+| Postgraduate Specialization in Cloud Computing | PUC Minas | Completed |
+| Technologist in IT Management | Fatec Campinas | Completed |
+| Technologist in Business Management | Fatec Mogi Mirim | In progress |
 
 ---
 
@@ -33,7 +52,7 @@ Systems administrator and infrastructure automation engineer with **4+ years** d
 
 | Area | Tools & Technologies |
 |---|---|
-| **VDI & Virtualization** | Citrix Virtual Apps & Desktops (XenApp/XenDesktop), Citrix Workspace, Citrix WEM, MCS, App Layering, UPM/UPL, Golden Images, VMware vSphere / ESXi / vCenter, vRealize Operations, Nutanix |
+| **VDI & Virtualization** | Citrix Virtual Apps & Desktops (XenApp/XenDesktop), Delivery Controllers, Machine Catalogs, Citrix Workspace, Citrix ADC (NetScaler), Citrix WEM, MCS, App Layering, UPM/UPL, Golden Images, VMware vSphere / ESXi / vCenter, vRealize Operations, Nutanix |
 | **Windows & Identity** | Windows Server 2012–2022, Windows 10/11, Active Directory, GPO, Microsoft 365 |
 | **Automation & IaC** | PowerShell, Ansible Tower, Terraform *(learning)*, Kubernetes *(learning)* |
 | **Cloud** | AWS, Azure |
