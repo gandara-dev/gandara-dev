@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=220&section=header&text=Mateus%20Gandara&fontSize=55&fontColor=FFFFFF&animation=fadeIn&desc=Infrastructure%20Automation%20%7C%20Citrix%20and%20VMware&descAlignY=65&descSize=20" alt="Header" />
 
-  <img src="assets/typing.svg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Senior+Infrastructure+Automation+Engineer;Citrix+and+VMware+Virtualization+Specialist;PowerShell+%7C+Ansible+%7C+Terraform;Keeping+VDI+fast%2C+secure+and+available" alt="Typing SVG" />
 
   <br/>
 
@@ -96,5 +96,5 @@ Systems administrator and infrastructure automation engineer with **4+ years** d
 </details>
 
 <div align="center">
-  <img src="assets/footer.svg" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" alt="Footer" />
 </div>
