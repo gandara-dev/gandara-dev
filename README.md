@@ -70,6 +70,7 @@ Systems Administrator at **Kyndryl** with **5+ years** in enterprise IT infrastr
 | [DR Orchestrator](https://github.com/gandara-dev/dr-orchestrator) | Dependency-aware disaster-recovery runbooks, simulation, RTO evidence, and VMware `vcsim` integration | PowerShell, YAML, VCF PowerCLI |
 | [Citrix Exporter](https://github.com/gandara-dev/citrix-exporter) | Citrix operational metrics with a synthetic provider and a provisioned monitoring stack | PowerShell, Prometheus, Grafana, Docker |
 | [VDI Image Factory](https://github.com/gandara-dev/vdi-image-factory) | Golden-image automation with a safe simulation path and separated MCS publication | Packer, PowerShell, Ansible, Hyper-V |
+| [Citrix Catalog Baseline](https://github.com/gandara-dev/citrix-catalog-baseline) | Access review for Citrix machine catalogs: who can reach each catalog and through which groups, installed software, and deterministic recommendations | PowerShell, Citrix Broker SDK, Active Directory |
 
 Every project is built around synthetic data and infrastructure-free CI so its
 core behavior can be reviewed and tested without a private lab. The code is
