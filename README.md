@@ -63,7 +63,7 @@ Systems Administrator at **Kyndryl** with **5+ years** in enterprise IT infrastr
 
 ---
 
-### 🚀 Open Source Projects
+### 🚀 Projects
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
@@ -72,7 +72,8 @@ Systems Administrator at **Kyndryl** with **5+ years** in enterprise IT infrastr
 | [VDI Image Factory](https://github.com/gandara-dev/vdi-image-factory) | Golden-image automation with a safe simulation path and separated MCS publication | Packer, PowerShell, Ansible, Hyper-V |
 
 Every project is built around synthetic data and infrastructure-free CI so its
-core behavior can be reviewed and tested without a private lab.
+core behavior can be reviewed and tested without a private lab. The code is
+source-available under the PolyForm Shield 1.0.0 license.
 
 ---
 
