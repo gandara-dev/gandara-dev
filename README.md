@@ -71,6 +71,7 @@ Systems Administrator at **Kyndryl** with **5+ years** in enterprise IT infrastr
 | [Citrix Exporter](https://github.com/gandara-dev/citrix-exporter) | Citrix operational metrics with a synthetic provider and a provisioned monitoring stack | PowerShell, Prometheus, Grafana, Docker |
 | [VDI Image Factory](https://github.com/gandara-dev/vdi-image-factory) | Golden-image automation with a safe simulation path and separated MCS publication | Packer, PowerShell, Ansible, vCenter/ESXi |
 | [Citrix Catalog Baseline](https://github.com/gandara-dev/citrix-catalog-baseline) | Access review for Citrix machine catalogs: who can reach each catalog and through which groups, installed software, and deterministic recommendations | PowerShell, Citrix Broker SDK, Active Directory |
+| [Citrix Patch Waves](https://github.com/gandara-dev/citrix-patch-waves) | In-place patching of persistent VDAs in waves: canary, drain, patch, restart, registration check, a failure gate, and a change record (plans against a real site, runs in a simulation) | PowerShell, Citrix Broker SDK, Pester |
 
 Every project is built around synthetic data and infrastructure-free CI so its
 core behavior can be reviewed and tested without a private lab. The code is
